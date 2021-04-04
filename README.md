@@ -1,1 +1,1 @@
-![](./assets/cripto.jpg)
+![](./assets/ether.jpg)
