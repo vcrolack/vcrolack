@@ -10,3 +10,4 @@
 - 💰 Cryptocurrency fan
 - 💻 HTML | CSS | JS | PYTHON
 - 📸 Follow me on Instagram @rolack_dev
+- 🔧 I love doing courses
