@@ -8,6 +8,6 @@
 - 📚 I'm a student on Duoc UC
 - 🎮 Find me on steam as Carlomagnesio™
 - 💰 Cryptocurrency fan
-- 💻 HTML | CSS | JS | PYTHON
+- 💻 HTML | CSS | JS | PYTHON | ANGULAR
 - 📸 Follow me on Instagram @rolack_dev
 - 🔧 I love doing courses
