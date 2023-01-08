@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on my portfolio<br>💻 I'm associated software engineer at Falabella Technology<br>📚 I'm a student on Duoc UC<br>🎮 Find me on steam as Carlomagnesio™<br>💰 Cryptocurrency fan<br>💻 REACT | SASS | NODE JS | EXPRESS.JS | PYTHON | FAST API | SQL | DOCKER<br>📸 Follow me on Instagram @rolack_dev<br>🔧 I love doing courses
+💻 I'm currently working on my portfolio<br>💻 I'm associated software engineer at Falabella Technology<br>📚 I'm a student on Duoc UC<br>🎮 Find me on steam as Carlomagnesio™<br>💰 Cryptocurrency fan<br>📸 Follow me on Instagram @rolack_dev<br>🔧 I love doing courses
 
 
 ## 🌐 Socials:
