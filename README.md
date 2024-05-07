@@ -121,18 +121,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vcrolack&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vcrolack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img align="right" height="150" src="https://static-cdn.jtvnw.net/jtv_user_pictures/f127e06d-f291-4406-8985-f3eb5b3fef34-profile_image-300x300.png"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://static-cdn.jtvnw.net/jtv_user_pictures/f127e06d-f291-4406-8985-f3eb5b3fef34-profile_image-300x300.png"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/12129345798">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12129345798&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
