@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Software engineer with two years of laboral experience</p>
+<p align="left">👨🏻‍💻 Software engineer with three years of laboral experience</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">😺I'm married and I have two cats</p>
+<p align="left">😺 I'm married and I have two cats</p>
 
 ###
 
