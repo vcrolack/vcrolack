@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 I'm associated software engineer at Falabella Technology</p>
+<p align="left">💻 I'm consultant IT at Amaris Consulting/p>
 
 ###
 
