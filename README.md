@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">💻 I'm consultant IT at Amaris Consulting/p>
+<p align="left">💻 I'm consultant IT at Amaris Consulting</p>
 
 ###
 
-<p align="left">👨🏻‍💻 Software engineer with three years of laboral experience</p>
+<p align="left">👨🏻‍💻 Software engineer with four years of laboral experience</p>
 
 ###
 
